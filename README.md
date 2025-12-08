@@ -101,28 +101,16 @@ Treatment B,68.2,4.2
 
 ### Nature 风格示例
 
-<table>
-  <tr>
-    <td align="center">
-      <strong>柱状图</strong><br>
-      组间数据对比
-    </td>
-    <td align="center">
-      <strong>折线图</strong><br>
-      时间序列趋势
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>热力图</strong><br>
-      基因表达矩阵
-    </td>
-    <td align="center">
-      <strong>散点图</strong><br>
-      相关性分析
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| 中文图表示例 | 英文图表示例 |
+|:---:|:---:|
+| ![中文科研图表](https://raw.githubusercontent.com/peizhou/SciPlot/main/screenshot-20251208-142323.png) | ![English Scientific Figure](https://raw.githubusercontent.com/peizhou/SciPlot/main/screenshot-20251208-142307.png) |
+| *中文标注，符合国内期刊要求* | *English labels, Nature/Science style* |
+
+</div>
+
+> 💡 **以上图表均由 SciPlot-Pro 一键生成，无需任何手动调整！**
 
 ---
 
