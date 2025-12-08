@@ -16,6 +16,18 @@
 
 ---
 
+## 🌐 立即体验
+
+<div align="center">
+
+### 👉 [**https://figure.thirdme.com/**](https://figure.thirdme.com/) 👈
+
+**无需安装，在线即用，立即生成顶刊级科研图表！**
+
+</div>
+
+---
+
 ## ✨ 为什么选择 SciPlot-Pro？
 
 | 传统作图 | SciPlot-Pro |
