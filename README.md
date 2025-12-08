@@ -28,6 +28,18 @@
 
 ---
 
+## 📸 工具界面
+
+<div align="center">
+
+| 中文界面 | English Interface |
+|:---:|:---:|
+| ![中文界面](https://raw.githubusercontent.com/peizhou/SciPlot/main/screenshot-20251208-142323.png) | ![English Interface](https://raw.githubusercontent.com/peizhou/SciPlot/main/screenshot-20251208-142307.png) |
+
+</div>
+
+---
+
 ## ✨ 为什么选择 SciPlot-Pro？
 
 | 传统作图 | SciPlot-Pro |
