@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎨 SciPlot-Pro
+# 🎨 ScholarPlot
 
 ### AI-Powered Scientific Figure Generator for Top-Tier Journal Publications
 
@@ -40,9 +40,9 @@
 
 ---
 
-## ✨ 为什么选择 SciPlot-Pro？
+## ✨ 为什么选择 ScholarPlot？
 
-| 传统作图 | SciPlot-Pro |
+| 传统作图 | ScholarPlot |
 |---------|-------------|
 | ❌ 手动调整配色，耗时数小时 | ✅ AI智能配色，一键生成 |
 | ❌ 需要专业设计知识 | ✅ 零设计基础，直接使用 |
@@ -134,7 +134,7 @@ Treatment B,68.2,4.2
 
 </div>
 
-> 💡 **以上图表均由 SciPlot-Pro 一键生成，无需任何手动调整！**
+> 💡 **以上图表均由 ScholarPlot 一键生成，无需任何手动调整！**
 
 ---
 
@@ -142,7 +142,7 @@ Treatment B,68.2,4.2
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                    SciPlot-Pro 架构                      │
+│                    ScholarPlot 架构                      │
 ├─────────────────────────────────────────────────────────┤
 │  📝 自然语言输入                                         │
 │        ↓                                                │
@@ -210,9 +210,7 @@ Treatment B,68.2,4.2
 
 ## 📬 联系我们
 
-- 🐛 **问题反馈**: [GitHub Issues](https://github.com/yourusername/sciplot-pro/issues)
-- 💡 **功能建议**: [GitHub Discussions](https://github.com/yourusername/sciplot-pro/discussions)
-- 📧 **邮件联系**: your-email@example.com
+- 📧 **邮件联系**: support@thirdme.com
 
 ---
 
@@ -231,7 +229,7 @@ Treatment B,68.2,4.2
 
 ### Overview
 
-**SciPlot-Pro** is an AI-powered scientific figure generator designed to create publication-ready charts for top-tier journals like Nature, Science, and Cell. Using advanced AI technology (Nano Banana), it transforms your data into professional visualizations with just one click.
+**ScholarPlot** is an AI-powered scientific figure generator designed to create publication-ready charts for top-tier journals like Nature, Science, and Cell. Using advanced AI technology (Nano Banana), it transforms your data into professional visualizations with just one click.
 
 ### Key Features
 
@@ -244,12 +242,12 @@ Treatment B,68.2,4.2
 
 ### Quick Start
 
-Simply describe your visualization needs in natural language, and SciPlot-Pro will generate a professional scientific figure ready for journal submission.
+Simply describe your visualization needs in natural language, and ScholarPlot will generate a professional scientific figure ready for journal submission.
 
 ---
 
 <div align="center">
 
-**[⬆ Back to Top](#-sciplot-pro)**
+**[⬆ Back to Top](#-ScholarPlot)**
 
 </div>
